@@ -4,6 +4,8 @@
        <java.version>1.8</java.version>
        <maven.compiler.source>1.8</maven.compiler.source>
        <maven.compiler.target>1.8</maven.compiler.target>
+		   <jacoco.version>0.7.5.201505241946</jacoco.version>
+		   <junit.version>4.12</junit.version>
  </properties>
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.mycompany.app</groupId>
